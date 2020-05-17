@@ -1,0 +1,3 @@
+s21600453@peace:~/oss2020/project/006759/Unit 03$ gcc judge_hello.c
+s21600453@peace:~/oss2020/project/006759/Unit 03$ ./a.out
+
