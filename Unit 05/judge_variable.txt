@@ -1,0 +1,7 @@
+s21600453@peace:~/oss2020/project/006759/Unit 05$ gcc judge_variable.c
+s21600453@peace:~/oss2020/project/006759/Unit 05$ ./a.out
+첫번째 정수 입력: 1
+두번째 정수 입력: 2
+세번째 정수 입력: 3
+1 2 3
+
