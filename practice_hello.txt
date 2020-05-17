@@ -1,0 +1,5 @@
+s21600453@peace:~/oss2020/project/006759/Unit 03$ gcc practice_hello.c
+s21600453@peace:~/oss2020/project/006759/Unit 03$ ./a.out
+/*_____________*/
+/*__________*/
+i

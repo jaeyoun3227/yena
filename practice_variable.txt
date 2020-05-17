@@ -1,0 +1,7 @@
+s21600453@peace:~/oss2020/project/006759/Unit 05$ gcc practice_variable.c
+s21600453@peace:~/oss2020/project/006759/Unit 05$ ./a.out
+첫 정수: 1
+두번째 정수: 2
+세번째 정수: 3
+1 2 3
+
