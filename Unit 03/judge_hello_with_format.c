@@ -2,7 +2,7 @@
 
 int main()
 {
-    printf("%s, %s %s\n", /*____________________*/);
+    printf("%s %s\n", "Hello", "Handong");
 
     return 0;
 }
