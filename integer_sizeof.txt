@@ -1,0 +1,3 @@
+s21600453@peace:~/oss2020/project/006759/Unit 07$ ./a.out
+num1▒▒ ũ▒▒: 4
+
