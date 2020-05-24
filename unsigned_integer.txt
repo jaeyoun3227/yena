@@ -1,0 +1,4 @@
+s21600453@peace:~/oss2020/project/006759/Unit 07$ gcc unsigned_integer.c
+s21600453@peace:~/oss2020/project/006759/Unit 07$ ./a.out
+200 60000 412349 412389 1234567890
+
