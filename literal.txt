@@ -1,0 +1,6 @@
+s21600453@peace:~/oss2020/project/006759/Unit 10$ ./a.out
+10
+0.100000
+a
+Hello, world!
+
