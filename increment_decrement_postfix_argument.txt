@@ -1,0 +1,4 @@
+s21600453@peace:~/oss2020/project/006759/Unit 13$ ./a.out
+2 2
+3 1
+
