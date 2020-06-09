@@ -1,4 +1,6 @@
-s21600453@peace:~/oss2020/project/006759/Unit 19$ ./a.out
-12
-10000
+s21600453@peace:~/oss2020/project/006759/Unit 22$ ./a.out
+true
+false
+true
+false
 
